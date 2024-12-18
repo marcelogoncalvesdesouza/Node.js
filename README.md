@@ -15,5 +15,11 @@
 
 - npx tsc --init
 - npm install --save-dev @tsconfig/recommended
-- npx tsc
+- npx tsc - compilar o código TypeScript
 - node lib/index.js
+
+## tsc-watch
+
+- npm install tsc-watch -- save-dev
+- Adicionar no: npx tsc-watch --onSuccess "node ./lib/index.js"
+- npm start

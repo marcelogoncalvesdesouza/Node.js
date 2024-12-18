@@ -4,7 +4,7 @@ const app = express();
 
 // Rota básica
 app.get("/", (req, res) => {
-  res.send("Node.js");
+  res.send("Node.js - Course");
 });
 
 // Criação do servidor
