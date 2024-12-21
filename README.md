@@ -20,6 +20,11 @@
 
 ## tsc-watch
 
+- https://www.npmjs.com/package/tsc-watch
 - npm install tsc-watch -- save-dev
-- Adicionar no: npx tsc-watch --onSuccess "node ./lib/index.js"
+- Adicionar no package.json: npx tsc-watch --onSuccess "node ./lib/index.js"
 - npm start
+
+## Express
+
+- https://expressjs.com/en/guide/routing.html
